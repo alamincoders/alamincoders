@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/0GXd0nn/1000x500.jpg)](https://portfolio-by-alamin.netlify.app/)
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Junior web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-amin-hub&label=Profile%20views&color=0e75b6&style=flat" alt="al-amin-hub" /> </p>
 
