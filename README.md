@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-amin-hub&label=Profile%20views&color=0e75b6&style=flat" alt="al-amin-hub" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alamin502" target="blank"><img src="https://img.shields.io/twitter/follow/alamin502?logo=twitter&style=for-the-badge" alt="alamin502" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Al_Amin_dev" target="blank"><img src="https://img.shields.io/twitter/follow/alamin502?logo=twitter&style=for-the-badge" alt="alamin502" /></a> </p>
  <img align="right" alt="Coding" width="400" src="https://i.ibb.co/5Gdbcg8/coding-freak.gif">
 
 - 👨‍💻 All of my projects are available at [https://portfolio-by-alamin.netlify.app/](https://portfolio-by-alamin.netlify.app/)
