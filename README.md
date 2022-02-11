@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/al_amin_dev" target="blank"><img src="https://img.shields.io/twitter/follow/al_amin_dev?logo=twitter&style=for-the-badge" alt="al_amin_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, React Native**
+- 🌱 I’m currently learning **React Native, Redux and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-by-alamin.netlify.app/](https://portfolio-by-alamin.netlify.app/)
+- 👨‍💻 My Portfolio Website [https://portfolio-by-alamin.netlify.app/](https://portfolio-by-alamin.netlify.app/)
 
 - 📫 How to reach me **alaminsbl502@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tCBU6-Z71IA0DYR8txf0FSsETxUQwkRt/view?usp=sharing](https://drive.google.com/file/d/1tCBU6-Z71IA0DYR8txf0FSsETxUQwkRt/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tCBU6-Z71IA0DYR8txf0FSsETxUQwkRt/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
