@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/0GXd0nn/1000x500.jpg)](https://portfolio-by-alamin.netlify.app/)
+[![MasterHead](https://i.ibb.co/zr7Tc1w/Untitled-design.png)](https://portfolio-by-alamin.netlify.app/)
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -10,13 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-by-alamin.netlify.app/](https://portfolio-by-alamin.netlify.app/)
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **alaminsbl502@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tCBU6-Z71IA0DYR8txf0FSsETxUQwkRt/view?usp=sharing](https://drive.google.com/file/d/1tCBU6-Z71IA0DYR8txf0FSsETxUQwkRt/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
