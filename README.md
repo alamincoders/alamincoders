@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native, Redux and Typescript**
 
-- 👨‍💻 My Portfolio Website [https://portfolio-by-alamin.netlify.app/](https://portfolio-by-alamin.netlify.app/)
+- 👨‍💻 My Portfolio Website [Click Here](https://portfolio-by-alamin.netlify.app/)
 
 - 📫 How to reach me **alaminsbl502@gmail.com**
 
