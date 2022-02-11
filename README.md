@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **alaminsbl502@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tCBU6-Z71IA0DYR8txf0FSsETxUQwkRt/view?usp=sharing](Resume)
+- 📄 Know about my experiences [from my resume](https://drive.google.com/file/d/1tCBU6-Z71IA0DYR8txf0FSsETxUQwkRt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
