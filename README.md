@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/zr7Tc1w/Untitled-design.png)](https://portfolio-by-alamin.netlify.app/)
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">A Passionate MERN Stack Web Developer</h3>
+<h3 align="center">A Passionate Frontend & MERN Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-amin-hub&label=Profile%20views&color=0e75b6&style=flat" alt="al-amin-hub" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **alaminsbl502@gmail.com**
 
-- 📄 Know about my experiences [from my resume](https://drive.google.com/file/d/1tCBU6-Z71IA0DYR8txf0FSsETxUQwkRt/view?usp=sharing)
+- 📄 Know about my experiences [from my resume](https://drive.google.com/file/d/111cAEj4UjChrXHwHWZCo-hLjZsfatvf0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
