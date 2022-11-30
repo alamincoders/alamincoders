@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamincoders" alt="alamincoders" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/alamincoders" target="blank"><img src="https://img.shields.io/twitter/follow/alamincoders?logo=twitter&style=for-the-badge" alt="alamincoders" /></a> </p>
+<p align="left"> <a href="https://twitter.com/alamincoderss" target="blank"><img src="https://img.shields.io/twitter/follow/alamincoderss?logo=twitter&style=for-the-badge" alt="alamincoders" /></a> </p>
 
 - 🌱 I’m currently learning **Redux & Typescript, React Native, Mongoose.**
 
 - 👨‍💻 All of my projects are available at [https://alamincoders.netlify.app/](https://alamincoders.netlify.app/)
 
-- 💬 Ask me about **React, JavaScript.**
+- 💬 Ask me about **React, Next js, JavaScript, and Typescript **
 
-- 📫 How to reach me **alamincodersbd@gmail.com**
+- 📫 How to reach me **alaminsbl502@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KvSKnsXIJ4eI1IdhQJATTU0l6dTdF0-s/view?usp=sharing](https://drive.google.com/file/d/1KvSKnsXIJ4eI1IdhQJATTU0l6dTdF0-s/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s7AqTOpYQjWe_9kZ98ua1BHla-7L3plK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
