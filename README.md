@@ -38,7 +38,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamincoders&show_icons=true&locale=en&layout=compact" alt="alamincoders" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alamincoders&show_icons=true&locale=en" alt="alamincoders" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamincoders&" alt="alamincoders" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alamincoders)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamincoders&" alt="alamincoders" /></p>
