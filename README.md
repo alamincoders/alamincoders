@@ -78,15 +78,26 @@
 </td></tr></table>  
 <br/>  
 
-<!-- trophy  -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamincoders" alt="alamincoders" /></a> </p>
+<!-- github status -->
+<p align="center">
+   <table align="center">
+<!--    <h1 align="center">Github Stats</h1> -->
+       <tr>
+       <td align="center" width="50%"><img alt="webfaisal1:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=webfaisal1&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td align="center" width="50%"><img alt="webfaisal1:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webfaisal1&langs_count=14&theme=blue-green&layout=compact&hide=html&hide_border=true"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=webfaisal1&theme=blue-green&hide_border=true"></td>
+     </tr>
+   </table>
+</p>
 
+</div>
 
-<!-- contribution  -->
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamincoders&show_icons=true&locale=en&layout=compact" alt="alamincoders" /></p><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alamincoders&show_icons=true&locale=en" alt="alamincoders" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamincoders&" alt="alamincoders" /></p>
+<div align="center"> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=webfaisal1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <!-- graph  -->
