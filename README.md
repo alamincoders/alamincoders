@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
 <h3 align="center">A passionate <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=72E2AE&center=true&vCenter=true&width=300&height=30&lines=Frontend+Web+Developer;Jr.+MERN+Stack+Developer;React++JS+Developer" alt="Typing SVG" /></a> from Bangladesh</h3>
 
-[![Github](https://img.shields.io/github/followers/alamincoders?label=Follow&style=social)]![](https://komarev.com/ghpvc/?username=alamincoders&color=7ae2ae)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alamincoders&label=Profile%20views&color=0e75b6&style=flat" alt="alamincoders" /> </p>
+![Github](https://img.shields.io/github/followers/alamincoders?label=Follow&style=social)![](https://komarev.com/ghpvc/?username=alamincoders&color=7ae2ae)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamincoders" alt="alamincoders" /></a> </p>
 
