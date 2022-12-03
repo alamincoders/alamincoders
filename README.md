@@ -5,6 +5,9 @@
 
 ![Github](https://img.shields.io/github/followers/alamincoders?label=Follow&style=social)![](https://komarev.com/ghpvc/?username=alamincoders&color=0078C2)
 
+<!-- <p align="left"> <a href="https://twitter.com/alamincoderss" target="blank"><img src="https://img.shields.io/twitter/follow/alamincoderss?logo=twitter&style=for-the-badge" alt="alamincoders" /></a> </p>
+  -->
+
 - 🌱 I’m currently learning **Redux & Typescript, React Native, Mongoose.**
 
 - 👨‍💻 All of my projects are available at [https://alamincoders.netlify.app/](https://alamincoders.netlify.app/)
@@ -77,8 +80,6 @@
 
 <!-- trophy  -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamincoders" alt="alamincoders" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/alamincoderss" target="blank"><img src="https://img.shields.io/twitter/follow/alamincoderss?logo=twitter&style=for-the-badge" alt="alamincoders" /></a> </p>
 
 
 <!-- contribution  -->
