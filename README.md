@@ -96,7 +96,7 @@
 
 <div align="center"> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=webfaisal1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alamincoders&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
