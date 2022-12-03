@@ -1,9 +1,9 @@
 [![MasterHead](https://i.ibb.co/zr7Tc1w/Untitled-design.png)](https://alamincoders.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">A passionate <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=72E2AE&center=true&vCenter=true&width=300&height=30&lines=Frontend+Web+Developer;Jr.+MERN+Stack+Developer;React++JS+Developer" alt="Typing SVG" /></a> from Bangladesh</h3>
+<h3 align="center">A passionate <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0078C2&center=true&vCenter=true&width=300&height=30&lines=Frontend+Web+Developer;Jr.+MERN+Stack+Developer;React++JS+Developer" alt="Typing SVG" /></a> from Bangladesh</h3>
 
-![Github](https://img.shields.io/github/followers/alamincoders?label=Follow&style=social)![](https://komarev.com/ghpvc/?username=alamincoders&color=7ae2ae)
+![Github](https://img.shields.io/github/followers/alamincoders?label=Follow&style=social)![](https://komarev.com/ghpvc/?username=alamincoders&color=0078C2)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamincoders" alt="alamincoders" /></a> </p>
 
