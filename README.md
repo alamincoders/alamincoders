@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/zr7Tc1w/Untitled-design.png)](https://alamincoders.netlify.app/)
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=72E2AE&width=435&lines=Frontend+Web+Developer;Jr.+MERN+Stack+Developer;React++JS+Developer" alt="Typing SVG" /></a>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=72E2AE&width=435&lines=Frontend+Web+Developer;Jr.+MERN+Stack+Developer;React++JS+Developer" alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamincoders&label=Profile%20views&color=0e75b6&style=flat" alt="alamincoders" /> </p>
 
