@@ -81,23 +81,20 @@
 <!-- github status -->
 <p align="center">
    <table align="center">
-<h3 align="left">Github Stats</h3>
+<h3 align="left">Github Stats:</h3>
        <tr>
        <td align="center" width="50%"><img alt="alamincoders:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=alamincoders&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
        <td align="center" width="50%"><img alt="alamincoders:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamincoders&langs_count=14&theme=blue-green&layout=compact&hide=html&hide_border=true"> </td>
      </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alamincoders&theme=blue-green&hide_border=true"></td>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alamincoders&theme=blue-green&hide_border=true">         </td>
      </tr>
    </table>
 </p>
-
 </div>
 
 <div align="center"> 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=alamincoders&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 <!-- graph  -->
