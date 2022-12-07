@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Redux & Typescript, React Native, Mongoose.**
 
-- 👨‍💻 All of my projects are available at [https://alamincoders.netlify.app/](Portfolio-Website)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://alamincoders.netlify.app/)
 
 - 💬 Ask me about **React, Next js, JavaScript, and Typescript **
 
