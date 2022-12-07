@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/zr7Tc1w/Untitled-design.png)](https://alamincoders.netlify.app/)
+<!--[![MasterHead](https://i.ibb.co/zr7Tc1w/Untitled-design.png)](https://alamincoders.netlify.app/)  -->
 [![MasterHead](https://i.ibb.co/RYn06mh/GitHub.png)](https://alamincoders.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
