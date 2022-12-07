@@ -2,7 +2,7 @@
 [![MasterHead](https://i.ibb.co/RYn06mh/GitHub.png)](https://alamincoders.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">A passionate Full-stack Web Developer specialized in MERN Stack from Bangladesh</h3>
+<h3 align="center">Full-stack Web Developer specialized in MERN Stack</h3>
 
 ![Github](https://img.shields.io/github/followers/alamincoders?label=Follow&style=social) ![](https://komarev.com/ghpvc/?username=alamincoders&color=0078C2)
 
