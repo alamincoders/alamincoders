@@ -105,7 +105,7 @@
 </div>
 
 <!-- graph  -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alamincoders)
+[![Al-Amin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alamincoders &bg_color=292c34&color=fafafa&line=58b5d1&point=58b5d1&area=true&hide_border=true)](https://github.com/alamincoders/github-readme-activity-graph)
 
 <!-- support -->
 <h3 align="left">Support:</h3>
