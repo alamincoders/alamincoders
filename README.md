@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **React, Next js, JavaScript, and Typescript **
 
-- 📫 How to reach me **alaminsbl502@gmail.com**
+- 📫 How to reach me **alaminpgmr@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s7AqTOpYQjWe_9kZ98ua1BHla-7L3plK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HQNEkXJABB2jpYg-yCEos8-keFlhke0Q/view)
 
 
 <!-- contact section  -->
