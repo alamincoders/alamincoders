@@ -1,4 +1,5 @@
 [![MasterHead](https://i.ibb.co/zr7Tc1w/Untitled-design.png)](https://alamincoders.netlify.app/)
+[![MasterHead](https://i.ibb.co/RYn06mh/GitHub.png)](https://alamincoders.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
 <h3 align="center">A passionate <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0078C2&center=true&vCenter=true&width=300&height=30&lines=Frontend+Web+Developer;Jr.+MERN+Stack+Developer;React++JS+Developer" alt="Typing SVG" /></a> from Bangladesh</h3>
