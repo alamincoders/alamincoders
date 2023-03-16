@@ -8,7 +8,7 @@
 ![Github](https://img.shields.io/github/followers/alamincoders?label=Follow&style=social) ![](https://komarev.com/ghpvc/?username=alamincoders&color=0078C2)
 
   
-<img width="280" align="right" src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=gc3"  alt="Al Amin's Dev Card"/>
+<img width="280" align="right" src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=zkq"  alt="Al Amin's Dev Card"/>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -40,8 +40,6 @@
 <a href="https://www.hackerearth.com/@alamincoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@alamincoders" height="30" width="40" /></a>
 <a href="https://discord.gg/RDfZt6r7QB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RDfZt6r7QB" height="30" width="40" /></a>
 </p>
-
-<a href="https://app.daily.dev/alamincoders"><img src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=d41" width="400" alt="Al Amin's Dev Card"/></a>
 
 <!--  language and table -->
 <h3 align="left">Languages and Tools:</h3>
