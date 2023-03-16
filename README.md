@@ -8,7 +8,7 @@
 ![Github](https://img.shields.io/github/followers/alamincoders?label=Follow&style=social) ![](https://komarev.com/ghpvc/?username=alamincoders&color=0078C2)
 
   
-<img width="300" align="right" src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=gc3"  alt="Al Amin's Dev Card"/>
+<img width="280" align="right" src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=gc3"  alt="Al Amin's Dev Card"/>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
