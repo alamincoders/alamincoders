@@ -41,6 +41,8 @@
 <a href="https://discord.gg/RDfZt6r7QB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RDfZt6r7QB" height="30" width="40" /></a>
 </p>
 
+<a href="https://app.daily.dev/alamincoders"><img src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=d41" width="400" alt="Al Amin's Dev Card"/></a>
+
 <!--  language and table -->
 <h3 align="left">Languages and Tools:</h3>
 
