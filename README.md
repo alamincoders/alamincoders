@@ -7,19 +7,19 @@
 
 ![Github](https://img.shields.io/github/followers/alamincoders?label=Follow&style=social) ![](https://komarev.com/ghpvc/?username=alamincoders&color=0078C2)
 
-<!-- <p align="left"> <a href="https://twitter.com/alamincoderss" target="blank"><img src="https://img.shields.io/twitter/follow/alamincoderss?logo=twitter&style=for-the-badge" alt="alamincoders" /></a> </p>
-  -->
+  
+<img width="300" align="right" src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=gc3"  alt="Al Amin's Dev Card"/>
 
-- 🌱 I’m currently learning **Redux & Typescript, React Native, Mongoose.**
-
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://alamincoders.netlify.app/)
-
-- 💬 Ask me about **React, Next js, JavaScript, and Typescript **
-
-- 📫 How to reach me **alaminpgmr@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HQNEkXJABB2jpYg-yCEos8-keFlhke0Q/view)
-
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on <a href="https://github.com/nur165024">Nur Software</a>.</li>
+<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>backend development</strong>, and a bit of <strong>PMP</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://alamincoders.netlify.app/">Portfolio Website</a>.</li>
+<li>📝 I <del>regulary</del> write articles on <a href="https://medium.com/@alamincoders">my blogs</a>.</li>
+<li>💬 Ping me about <strong>react, node, express, and mongodb</strong>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1B35RjDBz9Iy0fwz2K95t06PqlQMOP2pb/view?usp=sharing">resume</a>.</li>
+<li>📫 How to reach me **<a  href="mailto:alaminpgmr@gmail.com">alaminpgmr@gmail.com</a>**</li>
+</ul>
 
 <!-- contact section  -->
 <h3 align="left">Connect with me:</h3>
@@ -41,12 +41,8 @@
 <a href="https://discord.gg/RDfZt6r7QB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RDfZt6r7QB" height="30" width="40" /></a>
 </p>
 
-<!-- dev daily -->
-<a href="https://app.daily.dev/alamincoders"><img src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=gc3" width="400" alt="Al Amin's Dev Card"/></a>
-
-
 <!--  language and table -->
-<h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="32"></h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <table align="center"><tr><td valign="top" width="33%">
 <h3 align="center">Frontend</h3>
