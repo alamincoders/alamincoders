@@ -40,7 +40,6 @@
 <a href="https://www.hackerearth.com/@alamincoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@alamincoders" height="30" width="40" /></a>
 <a href="https://discord.gg/RDfZt6r7QB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RDfZt6r7QB" height="30" width="40" /></a>
 </p>
-
 <!--  language and table -->
 <h3 align="left">Languages and Tools:</h3>
 
