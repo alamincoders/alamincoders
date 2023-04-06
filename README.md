@@ -17,7 +17,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://alamincoders.netlify.app/">Portfolio Website</a>.</li>
 <li>📝 I <del>regulary</del> write articles on <a href="https://medium.com/@alamincoders">my blogs</a>.</li>
 <li>💬 Ping me about <strong>react, node, express, and mongodb</strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1B35RjDBz9Iy0fwz2K95t06PqlQMOP2pb/view?usp=sharing">resume</a>.</li>
+<li>📙 Check out my <a href="https://mega.nz/file/67pwnaKA#mixq5N-Z8eOrFp6Gutv8DGW0XqSpACEaQqp_WUaKf-k">resume</a>.</li>
 <li>📫 How to reach me **<a  href="mailto:alaminpgmr@gmail.com">alaminpgmr@gmail.com</a>**</li>
 </ul>
 
