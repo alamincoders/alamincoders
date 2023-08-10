@@ -104,7 +104,6 @@
 </div>
 
 <!-- graph  -->
-[![Al Amin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alamincoders&theme=dracula)](https://github.com/alamincoders/github-readme-activity-graph)
 
 <!-- support -->
 <h3 align="left">Support:</h3>
