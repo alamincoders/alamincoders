@@ -12,7 +12,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/nur165024">Nur Software</a>.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/NUR-Software">Nur Software</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>backend development</strong>, and a bit of <strong>PMP</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://alamincoders.netlify.app/">Portfolio Website</a>.</li>
 <li>📝 I <del>regulary</del> write articles on <a href="https://medium.com/@alamincoders">my blogs</a>.</li>
