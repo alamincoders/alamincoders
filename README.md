@@ -8,9 +8,10 @@
 ![Github](https://img.shields.io/github/followers/alamincoders?label=Follow&style=social) ![](https://komarev.com/ghpvc/?username=alamincoders&color=0078C2)
 
   
-<!-- <a target="_blank"  href="https://app.daily.dev/alamincoders" ><img width="280" align="right" src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=zkq"  alt="Al Amin's Dev Card"/></a> -->
+<a target="_blank"  href="https://app.daily.dev/alamincoders" ><img width="200" align="right" src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=zkq"  alt="Al Amin's Dev Card"/></a>
 
 <h2>⚡️ A Few Quick Facts</h2>
+
 <ul>
 <li>🔭 I'm currently employed at <a href="https://github.com/NUR-Software">Nur Software</a>.</li>
 <li>🧐 I'm actively studying serverless architectures, backend development, and also delving into PMP.
@@ -21,89 +22,104 @@
 <li>📫 You can reach me via email at <a  href="mailto:alaminpgmr@gmail.com">alaminpgmr@gmail.com</a></li>
 </ul>
 
-<!-- contact section  -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/alamincoderbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alamincoderbd" height="30" width="40" /></a>
-<a href="https://twitter.com/alamincoderss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamincoderss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alamincoderbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alamincoderbd" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20364957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20364957" height="30" width="40" /></a>
-<a href="https://codesandbox.com/alamincoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alamincoders" height="30" width="40" /></a>
-<a href="https://fb.com/alamincoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alamincoders" height="30" width="40" /></a>
-<a href="https://instagram.com/alamincoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alamincoders" height="30" width="40" /></a>
-<a href="https://dribbble.com/alamincoderbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alamincoderbd" height="30" width="40" /></a>
-<a href="https://hashnode.com/@alamincoderbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@alamincoderbd" height="30" width="40" /></a>
-<a href="https://medium.com/@alamincoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alamincoders" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@codercomrades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codercomrades" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alamincoderbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alamincoderbd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alamincoderbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alamincoderbd" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@alamincoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@alamincoders" height="30" width="40" /></a>
-<a href="https://discord.gg/RDfZt6r7QB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RDfZt6r7QB" height="30" width="40" /></a>
-</p>
-<!--  language and table -->
-<h3 align="left">Languages and Tools:</h3>
 
-<table align="center"><tr><td valign="top" width="33%">
-<h3 align="center">Frontend</h3>
-<div align="center">  
-     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>    
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+## 🛠️ Skills
+
+### Languages
+
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<!--
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white) -->
+
+### Front-End Development
+
+![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![ant-design](https://img.shields.io/badge/Ant-Design-4285F4?style=for-the-badge&logo=antdesign&logoColor=white)
+![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Back-End Development
+![node](https://img.shields.io/badge/node-74AC5F?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/express-051A5C?style=for-the-badge&logo=express&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-00EB63?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cross-Platform Development
+
+![React Native](https://img.shields.io/badge/React%20Native-D674D4?style=for-the-badge&logo=react&logoColor=white)
+
+### Backend as a Service (BaaS)
+
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### Design Tools
+
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+<!--  ### Testing
+
+![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
+
+## 🖥️ Workspace Setup
+
+![AMD Ryzen™](https://img.shields.io/badge/AMD-Ryzen™-0071C5?style=for-the-badge&logo=ryzen&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ram](https://img.shields.io/badge/Ram-8GB-0078D6?style=for-the-badge&logo=ram&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+<!-- ## 📝 Top Blog Posts
+
+-   [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
+-   [Beautify Your GitHub Profile like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
+-   [5 projects to master Front End Development](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
+-   [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
+-   [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh)
+
+Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy) -->
+
+## 📈 Stats
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=alamincoders&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=alamincoders&show_icons=true&hide_border=true&theme=blue-green" alt="Al Amin's GitHub Stats">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=alamincoders&theme=blue-green&hide_border=true" alt="Al Amin's GitHub streak">
 </div>
 
-</td><td valign="top" width="33%">
-<h3 align="center">Backend</h3> 
-<div align="center">  
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.438912065.6243/flat,1000x1000,075,f.u3.jpg" alt="mongoose" width="40" height="40"/> </a>
- 
-</div>
-     
-</td><td valign="top" width="33%">
-<h3 align="center">Tools</h3> 
-<div align="center">  
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/></a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-</div>
-</td></tr></table>  
-<br/>  
+## 🔗 Links
 
-<!-- github status -->
-<p align="center">
-   <table align="center">
-<h3 align="left">Github Stats:</h3>
-       <tr>
-       <td align="center" width="50%"><img alt="alamincoders:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=alamincoders&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td align="center" width="50%"><img alt="alamincoders:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamincoders&langs_count=14&theme=blue-green&layout=compact&hide=html&hide_border=true"> </td>
-     </tr>
-     <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alamincoders&theme=blue-green&hide_border=true">         </td>
-     </tr>
-   </table>
-</p>
-</div>
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://alamincoders.netlify.app/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](www.alamincoders.me)
+[![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01fb566a0d88221c0a)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alamincoders/)
+[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/alamincoders)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alamincoders)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alamincoders)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:alaminpgmr@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alamin.coders/)
 
-<!-- trophy -->
-
-<div align="center"> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=alamincoders)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<!-- graph  -->
 
 <!-- support -->
 <h3 align="left">Support:</h3>
