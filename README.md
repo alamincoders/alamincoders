@@ -84,7 +84,7 @@
 
 ## 🖥️ Workspace Setup
 
-![AMD Ryzen™](https://img.shields.io/badge/AMD-Ryzen™-0071C5?style=for-the-badge&logo=ryzen&logoColor=white)
+![AMD Ryzen™](https://img.shields.io/badge/AMD-Ryzen™-0071C5?style=for-the-badge&logo=amd&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ram](https://img.shields.io/badge/Ram-8GB-0078D6?style=for-the-badge&logo=ram&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
@@ -102,10 +102,10 @@ Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy) -->
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=alamincoders&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=alamincoders&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=alamincoders&show_icons=true&hide_border=true&theme=blue-green" alt="Al Amin's GitHub Stats">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=alamincoders&theme=blue-green&hide_border=true" alt="Al Amin's GitHub streak">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=alamincoders&show_icons=true&hide_border=true&theme=blue-green" alt="Al Amin's GitHub Stats">
+   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=alamincoders&theme=blue-green&hide_border=true" alt="Al Amin's GitHub streak">
 </div>
 
 ## 🔗 Links
