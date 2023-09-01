@@ -12,13 +12,13 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/NUR-Software">Nur Software</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>backend development</strong>, and a bit of <strong>PMP</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://alamincoders.netlify.app/">Portfolio Website</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://medium.com/@alamincoders">my blogs</a>.</li>
-<li>💬 Ping me about <strong>react, node, express, and mongodb</strong>.</li>
-<li>📙 Check out my <a href="https://mega.nz/file/67pwnaKA#mixq5N-Z8eOrFp6Gutv8DGW0XqSpACEaQqp_WUaKf-k">resume</a>.</li>
-<li>📫 How to reach me **<a  href="mailto:alaminpgmr@gmail.com">alaminpgmr@gmail.com</a>**</li>
+<li>🔭 I'm currently employed at <a href="https://github.com/NUR-Software">Nur Software</a>.</li>
+<li>🧐 I'm actively studying serverless architectures, backend development, and also delving into PMP.
+<li>👨‍💻 You can find most of my projects on my <a href="https://alamincoders.netlify.app/">Portfolio Website</a>.</li>
+<li>📝  I frequently write articles on <a href="https://medium.com/@alamincoders">my blogs</a>.</li>
+<li>💬 Feel free to contact me regarding topics like React, Next.js, Typescript, Node.js, Express, and MongoDB.
+<li>📙 Please take a look at <a href="https://mega.nz/file/67pwnaKA#mixq5N-Z8eOrFp6Gutv8DGW0XqSpACEaQqp_WUaKf-k">my resume</a>.</li>
+<li>📫 You can reach me via email at <a  href="mailto:alaminpgmr@gmail.com">alaminpgmr@gmail.com</a></li>
 </ul>
 
 <!-- contact section  -->
