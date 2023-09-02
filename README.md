@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://i.ibb.co/zr7Tc1w/Untitled-design.png)](https://alamincoders.netlify.app/)  -->
-[![MasterHead](https://i.ibb.co/Kb3bQX0/github-banner.png)](https://alamincoders.netlify.app/)
+[![MasterHead](https://i.ibb.co/8m2sqRH/Untitled-design-1.png)](https://alamincoders.netlify.app/)
 
 
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
