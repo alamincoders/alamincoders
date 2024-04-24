@@ -106,8 +106,7 @@ Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy) -->
 <div align="center">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=alamincoders&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=alamincoders&show_icons=true&hide_border=true&theme=blue-green" alt="Al Amin's GitHub Stats">
- <img width="40%" src="https://streak-stats.demolab.com?user=alamincoders&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=alamincoders&show_icons=true&hide_border=true&theme=blue-green" alt="Al Amin's GitHub Stats">
 </div>
 
 ## 🔗 Links
@@ -120,7 +119,7 @@ Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy) -->
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/alamincoders)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alamincoders)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:alaminpgmr@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alamin.coders/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alamincoders/)
 
 
 <!-- support -->
