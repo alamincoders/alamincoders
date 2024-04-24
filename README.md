@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://i.ibb.co/zr7Tc1w/Untitled-design.png)](https://alamincoders.netlify.app/)  -->
-[![MasterHead](https://i.ibb.co/8m2sqRH/Untitled-design-1.png)](https://alamincoders.netlify.app/)
+[![MasterHead](https://res.cloudinary.com/dzsu72yx6/image/upload/v1713971081/github_p9savp.png)](https://alamincoders.netlify.app/)
 
 
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
@@ -18,9 +18,11 @@
 <li>👨‍💻 You can find most of my projects on my <a href="https://alamincoders.netlify.app/">Portfolio Website</a>.</li>
 <li>📝  I frequently write articles on <a href="https://medium.com/@alamincoders">my blogs</a>.</li>
 <li>💬 Feel free to contact me regarding topics like React, Next, Typescript, Node, Express & MongoDB.
-<li>📙 Please take a look at <a href="https://mega.nz/file/67pwnaKA#mixq5N-Z8eOrFp6Gutv8DGW0XqSpACEaQqp_WUaKf-k">my resume</a>.</li>
+<li>📙 Please take a look at <a href="https://heyzine.com/flip-book/175a08cd1f.html">my resume</a>.</li>
 <li>📫 You can reach me via email at <a  href="mailto:alaminpgmr@gmail.com">alaminpgmr@gmail.com</a></li>
 </ul>
+
+<a href="https://gitroll.io/profile/u16j9RXSyNzcPBmfI62sQMXUwR582" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u16j9RXSyNzcPBmfI62sQMXUwR582" alt="GitRoll Profile Badge"/></a>
 
 
 ## 🛠️ Skills
@@ -105,7 +107,7 @@ Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy) -->
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=alamincoders&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=alamincoders&show_icons=true&hide_border=true&theme=blue-green" alt="Al Amin's GitHub Stats">
-   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=alamincoders&theme=blue-green" alt="Al Amin's GitHub streak">
+ <img width="40%" src="https://streak-stats.demolab.com?user=alamincoders&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ## 🔗 Links
