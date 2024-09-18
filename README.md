@@ -13,13 +13,13 @@
 <h2>⚡️ A Few Quick Facts</h2>
 
 <ul>
-<li>🔭 I'm currently employed at <a href="https://github.com/nursoftwarebd">Nurit Ltd.</a></li>
+<li>🔭 I'm currently employed at <a href="https:nurit.io">Nurit Ltd.</a></li>
 <li>🧐 I'm actively studying serverless architectures, backend development, and also delving into PMP.
-<li>👨‍💻 You can find most of my projects on my <a href="https://alamincoders.netlify.app/">Portfolio Website</a>.</li>
+<li>👨‍💻 You can find most of my projects on my <a href="https://alamincoders-nine.vercel.com/">Portfolio Website</a>.</li>
 <li>📝  I frequently write articles on <a href="https://medium.com/@alamincoders">my blogs</a>.</li>
 <li>💬 Feel free to contact me regarding topics like React, Next, Typescript, Node, Express & MongoDB.
 <li>📙 Please take a look at <a href="https://heyzine.com/flip-book/175a08cd1f.html">my resume</a>.</li>
-<li>📫 You can reach me via email at <a  href="mailto:alaminpgmr@gmail.com">alaminpgmr@gmail.com</a></li>
+<li>📫 You can reach me via email at <a  href="mailto:alamincoders@gmail.com">alamincoders@gmail.com</a></li>
 </ul>
 
 <a href="https://gitroll.io/profile/u16j9RXSyNzcPBmfI62sQMXUwR582" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u16j9RXSyNzcPBmfI62sQMXUwR582" alt="GitRoll Profile Badge"/></a>
