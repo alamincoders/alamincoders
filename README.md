@@ -15,7 +15,7 @@
 <ul>
 <li>🔭 I'm currently employed at <a href="https:nurit.io">Nurit Ltd.</a></li>
 <li>🧐 I'm actively studying serverless architectures, backend development, and also delving into PMP.
-<li>👨‍💻 You can find most of my projects on my <a href="https://alamincoders-nine.vercel.com/">Portfolio Website</a>.</li>
+<li>👨‍💻 You can find most of my projects on my <a href="https://alamincoders-nine.vercel.app/">Portfolio Website</a>.</li>
 <li>📝  I frequently write articles on <a href="https://medium.com/@alamincoders">my blogs</a>.</li>
 <li>💬 Feel free to contact me regarding topics like React, Next, Typescript, Node, Express & MongoDB.
 <li>📙 Please take a look at <a href="https://heyzine.com/flip-book/175a08cd1f.html">my resume</a>.</li>
