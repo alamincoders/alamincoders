@@ -22,9 +22,6 @@
 <li>📫 You can reach me via email at <a  href="mailto:alamincoders@gmail.com">alamincoders@gmail.com</a></li>
 </ul>
 
-<a href="https://gitroll.io/profile/u16j9RXSyNzcPBmfI62sQMXUwR582" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u16j9RXSyNzcPBmfI62sQMXUwR582" alt="GitRoll Profile Badge"/></a>
-
-
 ## 🛠️ Skills
 
 ### Languages
