@@ -83,7 +83,7 @@
 
 ## 🖥️ Workspace Setup
 
-![AMD Ryzen™](https://img.shields.io/badge/AMD-Ryzen-7™-0071C5?style=for-the-badge&logo=amd&logoColor=white)
+![AMD Ryzen™](https://img.shields.io/badge/AMD-Ryzen™-0071C5?style=for-the-badge&logo=amd&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ram](https://img.shields.io/badge/Ram-16GB-0078D6?style=for-the-badge&logo=ram&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
