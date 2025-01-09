@@ -83,9 +83,9 @@
 
 ## 🖥️ Workspace Setup
 
-![AMD Ryzen™](https://img.shields.io/badge/AMD-Ryzen™-0071C5?style=for-the-badge&logo=amd&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![ram](https://img.shields.io/badge/Ram-8GB-0078D6?style=for-the-badge&logo=ram&logoColor=white)
+![AMD Ryzen™](https://img.shields.io/badge/AMD-Ryzen-7™-0071C5?style=for-the-badge&logo=amd&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ram](https://img.shields.io/badge/Ram-16GB-0078D6?style=for-the-badge&logo=ram&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 <!-- ## 📝 Top Blog Posts
@@ -99,6 +99,8 @@
 Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy) -->
 
 ## 📈 Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alamincoders&theme=radical&card_width=846)](https://git.io/streak-stats)
 
 <div align="center">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=alamincoders&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
