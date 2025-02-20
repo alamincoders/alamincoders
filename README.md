@@ -1,25 +1,44 @@
 <!--[![MasterHead](https://i.ibb.co/zr7Tc1w/Untitled-design.png)](https://alamincoders.netlify.app/)  -->
 [![MasterHead](https://res.cloudinary.com/dzsu72yx6/image/upload/v1713971081/github_p9savp.png)](https://alamincoders.netlify.app/)
 
+# Welcome to [Al Amin's](https://alamincoders.me/) profile! <a href="https://www.alamincoders.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">Full-stack Web Developer specialized in MERN Stack</h3>
+## Glad to see you here!
+
+I’m a full-stack software engineer & content creator 🚀! I’m all about programming 💻, reading 📚, writing ✍️, and speaking 🎙️.
+
+As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+
+That's why  I’m here to create things that changes the game 🔥!
 
 ![Github](https://img.shields.io/github/followers/alamincoders?label=Follow&style=social) ![](https://komarev.com/ghpvc/?username=alamincoders&color=0078C2)
 
   
-<a target="_blank"  href="https://app.daily.dev/alamincoders" ><img width="170" align="right" src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=zkq"  alt="Al Amin's Dev Card"/></a>
+<a target="_blank"  href="https://app.daily.dev/alamincoders" ><img width="190" align="right" src="https://api.daily.dev/devcards/a2258756ffaf4e9ebb23e0546655ee20.png?r=zkq"  alt="Al Amin's Dev Card"/></a>
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️Talking about Personal Stuff :</h2>
 
 <ul>
-<li>🔭 I'm currently employed at <a href="https:nurit.io">Nurit Ltd.</a></li>
-<li>🧐 I'm actively studying serverless architectures, backend development, and also delving into PMP.
+<li>🔭 I'm currently  working on <a href="https:nurit.io">Nurit Ltd.</a></li>
 <li>👨‍💻 You can find most of my projects on my <a href="https://alamincoders-nine.vercel.app/">Portfolio Website</a>.</li>
-<li>📝  I frequently write articles on <a href="https://medium.com/@alamincoders">my blogs</a>.</li>
-<li>💬 Feel free to contact me regarding topics like React, Next, Typescript, Node, Express & MongoDB.
-<li>📙 Please take a look at <a href="https://heyzine.com/flip-book/175a08cd1f.html">my resume</a>.</li>
+<li> 🌱 I'm currently learning:</li>
+  - Data Structures, Algorithms and Problem Solving on <a href="https://leetcode.com/u/alamincoders/">LeetCode</a>.
+  <br/>
+  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem.
 <li>📫 You can reach me via email at <a  href="mailto:alamincoders@gmail.com">alamincoders@gmail.com</a></li>
+<li> 💪 This is where I write, code and solve problems:
+<a href="https://github.com/alamincoders" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="alamincoders" height="30" width="40" /></a>
+&nbsp;
+<a href="https://leetcode.com/alamincoders/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alamincoders" height="30" width="40" /></a>
+&nbsp;
+<a href="https://stackoverflow.com/users/20364957/al-amin?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alamincoders" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/alamincoders" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alamincoders" height="30" width="40" /></a>
+&nbsp;
+<a href="https://medium.com/@alamincoders" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alamincoders" height="30" width="40" /></a>
+&nbsp;
+<a href="https://dev.to/alamincoders" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alamincoders" height="30" width="40" /></a>
+&nbsp;</li>
 </ul>
 
 ## 🛠️ Skills
