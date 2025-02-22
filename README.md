@@ -119,6 +119,7 @@ Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy) -->
 
 ## 📈 Stats
 [![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@alamincoders)
+[![roadmap.sh](https://roadmap.sh/card/wide/663a7c39744b04c7edd53026?variant=dark)](https://roadmap.sh)
 [![GitHub Streak](https://streak-stats.demolab.com?user=alamincoders&theme=radical&card_width=846)](https://git.io/streak-stats)
 
 <div align="center">
